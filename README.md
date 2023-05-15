@@ -1,1 +1,1 @@
-# LangCjain_Pinecone
+# LangChain_Pinecone
